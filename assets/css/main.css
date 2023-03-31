@@ -129,7 +129,7 @@ h1 {
 }
 /*fim progresso*/
 /*ANIMAÇÃO*/
-/*span {
+span {
     transform: scale(0.9);
     display: inline-block;
   }
@@ -160,4 +160,4 @@ h1 {
     100% {
       transform: scale(1) rotateZ(-3deg);
     }
-  }*/
+  }
